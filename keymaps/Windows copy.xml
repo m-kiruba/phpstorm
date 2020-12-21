@@ -1,7 +1,12 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
 </keymap>
