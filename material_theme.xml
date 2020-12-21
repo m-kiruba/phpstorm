@@ -8,6 +8,7 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialFont2" value="true" />
     <option name="highlightThickness" value="1" />
     <option name="accentColor" value="009688" />
     <option name="userId" value="-73e9e3e1:17685e7e71b:-8000" />
