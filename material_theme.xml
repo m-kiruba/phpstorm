@@ -4,12 +4,13 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="upperCaseButtons" value="false" />
-    <option name="useMaterialFont2" value="true" />
     <option name="highlightThickness" value="1" />
+    <option name="tabsHeight" value="29" />
     <option name="accentColor" value="009688" />
     <option name="userId" value="-73e9e3e1:17685e7e71b:-8000" />
     <option name="version" value="5.2.0" />
